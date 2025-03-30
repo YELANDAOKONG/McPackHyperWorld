@@ -3,3 +3,5 @@
 ---
 
 有关此整合包的问题在这个仓库处理（提交ISSUES）。
+
+[整合包网站](https://page.dkos.xyz/pages/minecrafts/modpacks/hyper-world/)
